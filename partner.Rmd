@@ -1,0 +1,25 @@
+---
+title: "partner.Rmd"
+author: "Emily Pollock"
+date: "2/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Git username: epollock1999
+
+Owner added the files hw1.Rmd and hw1.html to his pwd in his first commit.
+
+Commit ID: 6ed9583e1d9ae5d5853c15c4be888e6d6c516cdd
+
+hw1.Rmd knitted without error.
+
+No errors or difficulties to report, but GitHub could be made more user-friendly with labels for things like commit IDs.
+
+
+
